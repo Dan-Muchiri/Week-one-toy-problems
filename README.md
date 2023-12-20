@@ -7,11 +7,15 @@ B: 60 <= Marks <= 79
 C: 50 <= Marks < 60
 D: 40 <= Marks < 50
 E: Marks < 40
+
 Usage
+
 Run the script in any JavaScript BROWSER environment.
 Input your exam marks when prompted.
 The program will then display your corresponding grade based on the specified grading scale.
 Note: Ensure valid numeric input between 0 and 100 for accurate results.
+
+
 
 
 Speed Detector
