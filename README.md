@@ -1,4 +1,5 @@
 Student Grade Generator
+
 This simple JavaScript program prompts the user to input their exam marks and calculates the corresponding grade. It ensures the input is a valid number within the range of 0 to 100. The grading scale is as follows:
 
 A: Marks > 79
@@ -14,6 +15,7 @@ Note: Ensure valid numeric input between 0 and 100 for accurate results.
 
 
 Speed Detector
+
 This JavaScript program prompts the user to input the speed of a car in km/h and evaluates whether the speed is within the allowed limit. It calculates demerit points based on the difference between the input speed and the speed limit (70 km/h). If the demerit points exceed a specified limit (12), it indicates that the license is suspended. The program provides feedback on the speed status.
 
 Usage
@@ -25,6 +27,7 @@ The program will display the result, indicating if the speed is within the limit
 
 
 Net Salary Calculator
+
 This JavaScript program calculates the net salary of an individual based on their monthly basic salary, benefits, and various deductions. The user is prompted to enter relevant information, such as NSSF pensionable pay, eligibility for insurance relief, pension fund contribution, owner-occupier interest, and disability exemption.
 
 Usage
